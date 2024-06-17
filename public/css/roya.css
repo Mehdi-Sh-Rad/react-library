@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'B Roya';
+    src: url('../fonts/BRoyaBold.eot');
+    src: url('../fonts/BRoyaBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BRoyaBold.woff2') format('woff2'),
+        url('../fonts/BRoyaBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

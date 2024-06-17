@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'B Royal';
+    src: url('../fonts/FarRoyaBold.eot');
+    src: url('../fonts/FarRoyaBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FarRoyaBold.woff2') format('woff2'),
+        url('../fonts/FarRoyaBold.woff') format('woff'),
+        url('../fonts/FarRoyaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
